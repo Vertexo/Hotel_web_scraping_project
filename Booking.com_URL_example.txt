@@ -1,0 +1,1 @@
+﻿https://www.booking.com/searchresults.html?dest_id=116;dest_type=country;checkin=2019-02-20;checkout=2019-02-21;rows=50;offset=0;no_rooms=1;group_adults=1;group_children=0
